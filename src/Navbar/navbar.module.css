@@ -1,0 +1,19 @@
+.navbar_section {
+   
+}
+  
+  .active {
+    color: #f0bd3b;
+  }
+  
+  .logoHeading{
+    color : #36A5F4
+  }
+  nav {
+    transition: height 2s linear ease-in-out;
+  }
+  
+  .sticky-nav {
+    @apply fixed  w-full shadow-md z-20;
+  }
+  

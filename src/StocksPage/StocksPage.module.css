@@ -1,0 +1,22 @@
+.StocksPage_Component1
+{
+    
+    height: auto;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.StocksPage_Component2
+{
+    
+    height: 80vh;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.StocksPage_Component2_values
+{
+        width: 152px;
+        height: 37px;
+        background: #E3E3E3;
+        border-radius: 8px;
+}

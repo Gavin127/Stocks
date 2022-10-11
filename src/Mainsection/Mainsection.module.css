@@ -1,0 +1,9 @@
+.card1
+{
+  background: linear-gradient(90deg, #023DB0 0%, #00CDAC 100%);
+  width: 368px;
+  height: 220px;
+  box-shadow: inset 0px 1px 1px rgba(255, 255, 255, 0.25);
+  border-radius: 20px;
+  font-family: 'Inter', sans-serif;
+}
